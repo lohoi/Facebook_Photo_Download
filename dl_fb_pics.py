@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os
 import requests
-import secrets
+import secrets # can remove this for own use
 import urllib.request
 
 ACCESS_TOKEN = secrets.ACCESS_TOKEN # replace this with your facebook access token 
